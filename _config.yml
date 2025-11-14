@@ -1,11 +1,18 @@
 title: Public Writing
 theme: minima
 markdown: kramdown
+
+# Pages to show in the top-right menu
+header_pages: []  # empty so no link appears
+
+# SASS config
 sass:
   style: compressed
-header_pages:
-  - site/writingClasses/index.md
 
-# Include your custom CSS file
-include:
-  - assets/css/custom.css
+# Optional: custom CSS
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: "/assets/css/custom.css"
