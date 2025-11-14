@@ -1,6 +1,5 @@
 title: Public Writing
 theme: minima
-remote_theme: pages/minima@v0.6.0
 markdown: kramdown
 sass:
   style: compressed
