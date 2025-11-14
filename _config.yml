@@ -6,3 +6,14 @@ sass:
   
 # Only include pages you want in the top-right menu
 header_pages: []
+
+# _config.yml
+sass:
+  style: compressed
+# Add this line if not already included
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: "/assets/css/custom.css"
