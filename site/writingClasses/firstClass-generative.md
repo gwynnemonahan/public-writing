@@ -2,7 +2,8 @@
 layout: default
 nav: false
 ---
-## Generative Writing 10/30/2025
+
+Generative Writing 10/30/2025
 
 The most vivid memory, thing that impacted us the most that we want to write about. That impacted me the most that I want to write about. 
 
