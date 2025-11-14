@@ -1,5 +1,6 @@
 ---
 Writing Classes
+layout: default
 ---
 
 Publishing select works from various writing classes I have taken.
