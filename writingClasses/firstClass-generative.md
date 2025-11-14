@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Generative Writing 10/30/2025"
+nav: false
 ---
 ## Generative Writing 10/30/2025
 
