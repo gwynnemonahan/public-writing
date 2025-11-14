@@ -1,5 +1,4 @@
 title: Public Writing
 theme: minima
 markdown: kramdown
-remote_theme: pages/minima@v0.6.0
 show_repository_link: false
