@@ -1,4 +1,5 @@
 title: Public Writing
 theme: minima
 markdown: kramdown
-show_repository_link: false
+sass:
+  style: compressed
