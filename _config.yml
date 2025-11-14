@@ -3,7 +3,8 @@ theme: minima
 markdown: kramdown
 sass:
   style: compressed
-header_pages: []
+header_pages:
+  - site/writingClasses/index.md
 
 # Include your custom CSS file
 include:
