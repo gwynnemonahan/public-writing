@@ -1,4 +1,6 @@
----
----
-
-@import "custom";
+/* Hide the top-right link in Minima GitHub Pages theme */
+.header .page-link,
+.site-header .page-link,
+.header a {
+    display: none !important;
+}
