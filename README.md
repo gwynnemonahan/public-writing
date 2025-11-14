@@ -1,3 +1,6 @@
+---
+README
+---
 
 Select content for public consumption.
 
