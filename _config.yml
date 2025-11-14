@@ -3,3 +3,6 @@ theme: minima
 markdown: kramdown
 sass:
   style: compressed
+  
+# Only include pages you want in the top-right menu
+header_pages: []
