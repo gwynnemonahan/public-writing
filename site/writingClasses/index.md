@@ -1,5 +1,5 @@
 ---
-Writing Classes
+title: Writing Classes
 layout: default
 ---
 
