@@ -1,17 +1,11 @@
 title: Public Writing
 theme: minima
+remote_theme: pages/minima@v0.6.0
 markdown: kramdown
-  
-# Only include pages you want in the top-right menu
-header_pages: []
-
-# _config.yml
 sass:
   style: compressed
-# Add this line if not already included
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      css: "/assets/css/custom.css"
+header_pages: []
+
+# Include your custom CSS file
+include:
+  - assets/css/custom.css
