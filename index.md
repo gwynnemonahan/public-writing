@@ -6,6 +6,7 @@ Perhaps my manuscript will, too.
 Select content for public consumption:
 
 * [writingClasses](/site/writingClasses/)
+* [fiction](/site/fiction/)
 
 Already public content:
 
