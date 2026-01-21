@@ -1,3 +1,52 @@
+Bally sat at a table near the window, watching the snow fall. It was well past the departure time. By hour three, she had figured the flight would be canceled. It took them until hour five to cancel the flight. Some kind of mechanical issue. There were no other flights leaving for her destination tonight. 
+
+She opened her book back up, and returned to reading. Her eyes read the words, but her mind drifted through the myriad of flight delays she had experienced. The thunderstorm that spawned tornadoes while she was on her way back from Nashville. The blizzard on her way to San Francisco that delayed the flight four hours, and got her into San Jose instead at 3 in the morning. The terrible head cold that had started during the delay, progressed for the cross-country flight, and settled into misery for that week.
+
+She looked at her watch. It was almost 10pm. She looked down at Rocco, sitting quietly at her feet, his muzzle on her toes. 
+
+"Whatcha think bud?"
+
+Rocco lifted his head.
+
+"I know buddy."
+
+Bally pulled out her phone, thought for moment, remembering what country she's in, and opened an app. She set the search critiera to dog-friendly, and hoped there was one hotel with a room available for them tonight.
+
+Rocco let out a low grow. She looked up. 
+
+A man in security uniform stopped. "Excuse me," he said. "This side is closing for the night."
+
+"Ah, OK. Thank you. We'll move," she said as she put her phone away and stood up. Rocco kept his gaze on the man in the security uniform. "Easy," she said. "Thank you officer." She slung her bag over her shoulder, and turned. Rocco followed. 
+
+They made their way through the terminal, and then out through security. She found an empty bench, and sat back down. She gave a hand motion, and Rocco resumed his place at her feet, muzzle resting on her toes. She took out her phone again.
+
+"Isn't that?" 
+
+Rocco let out a low growl again. Bally looked up. 
+
+"Excuse me. Hi," a woman said as she stood a few feet away. "Are you...are you Bally?"
+
+Bally didn't answer.
+
+"I'm sorry. I'm Leanne. I recognized the hat from photo on the jacket. Of your book. I read your book."
+
+Bally tapped Rocco on the side to relax, and stood. "Yes, I'm Bally." She extended her hand in greeting. "Nice to meet you Leanne. And thank you for reading my book."
+
+"Who is this," Leanne asked, maintaining eye contact with Bally.
+
+"This is Rocco," Bally said as she looked down at him. Rocco sat up. "Do you want to meet him," Bally asked, returning her gaze to Leanne.
+
+"Yes."
+
+"Say hello," Bally said to Rocco. Rocco walked to Leanne, walked around, and leaned against her. "You can pet him."
+
+Leanne put a hand on Rocco's side, and stroked him. "He's beautiful."
+
+"Thank you. You can kneel and pet him if you want. He loves it when people scratch his left hip, or between his ears."
+
+Leanne kneeled and found the spots. Rocco wiggled with excitement, pushing himself into Leanne. Leanne laughed. Bally watched, smiling. It had taken hard work to get to this kind of interaction. 
+
+<!-->
 "Oh my dog. I'm fangirling right now."
 
 She looked up from her book to see a woman standing on the otherside of the table. Big, gentle snowflakes fell outside, blanketing the runway. A line of planes waited for deicing.
