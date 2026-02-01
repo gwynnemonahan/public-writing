@@ -4,6 +4,6 @@ layout: default
 nav: false
 ---
 
-Publishing select works from various writing classes I have taken.
+An experiment in writing fiction using a docs-as-code process. 
 
 [Beginning](fictional-version.md)
