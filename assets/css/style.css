@@ -1,10 +1,22 @@
-/* Hide the top-right link in Minima GitHub Pages theme */
+/* Hide the top-right links in Minima */
 .header .page-link,
 .site-header .page-link,
 .header a {
     display: none !important;
 }
+
 /* Hide Minima's default footer */
 .site-footer .site-footer-inner {
     display: none;
+}
+
+/* Optional: Sticky footer for short pages */
+.site-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    padding: 10px 0;
+    border-top: 1px solid #ddd;
 }
