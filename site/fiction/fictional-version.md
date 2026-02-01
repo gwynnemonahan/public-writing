@@ -1,3 +1,58 @@
+"This is my brother, Stanley," Jeanne said. "This is Bally."
+
+Bally gave a hand motion to Rocco as she looked at Stanely. It had been ten years, maybe more. 
+
+"She's stranded so I invited her to stay the night with us."
+
+They both looked at Jeanne.
+
+"No, thank you," Bally said. "That's very kind, but Rocco and I"
+
+"Stanely," Jeanne said.
+
+"There's plenty of room. I don't have pets."
+
+"Again, thank you, that is very kind but we"
+
+"And he owns so there isn't a pet policy or some kind of other nonsense to clear it," Jeanne said. "Do you have all your luggage?"
+
+Rocco let out a gentle whine. "I need to walk him."
+
+"Oh goodness, yes. We'll wait at baggae carousel 3."
+
+Bally nodded and started walking. Rocco followed. They went out the sliding doors, and found a dog area. Rocco sniffed until he found his spot, and relieved himself. 
+
+"I don't know what to do Rocco," Bally said. "It's been ten years, at least, yet I still feel this would violate some doctor-patient rule or something. But also, every hotel I've checked so far is booked. So I guess our options are either stay in the airport, or accept her invite." She looked down at Rocco. "What do you think." Rocco touched her knee with his nose twice. She sighed, gave him a scratch behind his left ear. "OK. We'll accept."
+
+They went back inside, and found Jeanne and Stanley waiting at Baggage Carousel 3. Jeanne was smiling.
+
+"Got everything?" Jeanne asked.
+
+"Yes," Bally said. 
+
+"Does Rocco eat steak?"
+
+Bally chuckled. She looked at Rocco. "Yes."
+
+"Perfect."
+
+"Steak?" Stanley asked.
+
+"Dinner, brother. Dinner. I don't know about you Bally, but I'm famished." She picked up her two bags, put one on her back, one on her front, and slung her carry on over her shoulder. "I haven't eaten a steak in three months."
+
+Stanley laughed. "Steak it is then. I'll swing by the corner store." He looked at Bally. "There's a nice park just not far from me."
+
+"Kits! Oh my God. Kits Beach. How I've missed that place," Jeanne said. "It's a great park. You and Rocco can get a good walk in while we make dinner."
+
+Kits Beach. Bally swallowed. "Great. And thank you, again. I'll do the dishes."
+
+"Pshaw. Nope. You and Rocco get the night off," Jeanne said. She looked down at Rocco. "Nothing short of amazing the work you two do." <!-- Rocco is a search and resuce dog>
+
+"Thank you," Bally said. 
+
+They walked to Stanley's car, and put their bags in the back. Bally took out Rocco's car harness, got him situated, then climbed in and sat next to him. She listened to Leanne talk about her three months in small African countries, providing aid, education, and training. Her eyes felt heavy, but her mind remained in overdrive. Rocco shifted, and rested his head in her lap. She smiled at him, and stroked his head.
+
+<!--
 Bally sat at a table near the window, watching the snow fall. It was well past the departure time. By hour three, she had figured the flight would be canceled. It took them until hour five to cancel the flight. Some kind of mechanical issue. There were no other flights leaving for her destination tonight. 
 
 She opened her book back up, and returned to reading. Her eyes read the words, but her mind drifted through the myriad of flight delays she had experienced. The thunderstorm that spawned tornadoes while she was on her way back from Nashville. The blizzard on her way to San Francisco that delayed the flight four hours, and got her into San Jose instead at 3 in the morning. The terrible head cold that had started during the delay, progressed for the cross-country flight, and settled into misery for that week.
