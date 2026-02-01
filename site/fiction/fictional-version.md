@@ -101,7 +101,6 @@ Leanne put a hand on Rocco's side, and stroked him. "He's beautiful."
 
 Leanne kneeled and found the spots. Rocco wiggled with excitement, pushing himself into Leanne. Leanne laughed. Bally watched, smiling. It had taken hard work to get to this kind of interaction. 
 
-<!-->
 "Oh my dog. I'm fangirling right now."
 
 She looked up from her book to see a woman standing on the otherside of the table. Big, gentle snowflakes fell outside, blanketing the runway. A line of planes waited for deicing.
