@@ -4,3 +4,7 @@
 .header a {
     display: none !important;
 }
+/* Hide Minima's default footer */
+.site-footer .site-footer-inner {
+    display: none;
+}

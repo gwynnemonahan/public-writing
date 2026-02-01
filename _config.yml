@@ -16,3 +16,10 @@ defaults:
       path: ""
     values:
       css: "/assets/css/custom.css"
+
+#name
+owner: "Gwynne Monahan"
+
+#copyright
+copyright: "© {{ 'now' | date: '%Y' }} Gwynne Monahan. All rights reserved."
+
