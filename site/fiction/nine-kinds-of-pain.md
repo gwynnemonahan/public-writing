@@ -118,23 +118,23 @@ Matt slouched in the chair, remembering those first couple nights after Rory’s
 
 Stork leaned against his pool cue. “Why does Rory’s death bother you so much?”
 
-	Matt shrugged and ran his hands nervously through his hair. They came out damp. “No reason.” He moved out of the way so Stork had a clear shot. “Just gonna put a damper on my birthday I guess.”
+Matt shrugged and ran his hands nervously through his hair. They came out damp. “No reason.” He moved out of the way so Stork had a clear shot. “Just gonna put a damper on my birthday I guess.”
 
-	“Feel guilty?”
+“Feel guilty?”
 
-	“Guilty? About what?”
+“Guilty? About what?”
 
-	“You’re alive.”
+“You’re alive.”
 
-	“That’s your fault, not mine.”
+“That’s your fault, not mine.”
 
-	“My fault?”
+“My fault?”
 
-	Matt shrugged. “Shoot already.”
+Matt shrugged. “Shoot already.”
 
 Stork took his next shot, remembering the ride in the ambulance as the cue ball bounced off the bumper. Matt was taken for emergency surgery as McGuiness dragged Stork away to the waiting room, saying nothing. Booger and Harrison were already there, waiting. He remembered McGuiness saying something about surgery, the bullet still inside and hope for the best. He was in good hands, and all they could do was wait, and pray. 
 
- Matt chalked his stick, the sound brushing the memory from Stork’s mind again. “You don’t find it odd though, that he would do something like that? And leave nothing behind? No note or anything.”
+Matt chalked his stick, the sound brushing the memory from Stork’s mind again. “You don’t find it odd though, that he would do something like that? And leave nothing behind? No note or anything.”
 
 Stork stood up. “Yeah, it is odd, even for Rory. He was never one to ask for help, or he didn’t know how.” He watched Matt shift nervously on his feet, wiping his hands on his jeans. “He wasn’t quite the same after…the accident.”
 
@@ -173,7 +173,8 @@ Matt turned his collar to the wind, shoved his hands in his pockets and brushed 
 “I don’t know,” Matt said, shifting uncomfortably in the chair. “Don’t your notes tell you that too?”
 
 “Did they express their concern?” \
-	“If you want to know what they did or didn’t do, why don’t you ask them?”
+
+“If you want to know what they did or didn’t do, why don’t you ask them?”
 
 “I did.”
 
@@ -273,9 +274,9 @@ Matt left the studio and went back home, took off his shirt and sat on his bed. 
 
 “What the heck are you doing,” Stork asked as he stood in the doorway.
 
- “Shit,” Matt said as he turned the faucet off. “You scared me.” He dried his hands on a towel. “Nothing. Guess we’re out of aspirin.”
+“Shit,” Matt said as he turned the faucet off. “You scared me.” He dried his hands on a towel. “Nothing. Guess we’re out of aspirin.”
 
- Matt moved past Stork into the hallway. Stork stood and surveyed the chaos of the bathroom, looked inside the medicine cabinet and saw the bottle of aspirin sitting front and center where he had left it.
+Matt moved past Stork into the hallway. Stork stood and surveyed the chaos of the bathroom, looked inside the medicine cabinet and saw the bottle of aspirin sitting front and center where he had left it.
 
 “The guys are downstairs.”
 
@@ -316,28 +317,23 @@ The shoulders slouched, the eyes moved to the floor. “Yeah. So.”
 Matt shrugged. “Everything.”
 
 
-    “What, exactly?” \
+“What, exactly?” 
+
 “C’mon man. You were there too. Don’t you remember it?”
 
 “Yes, I do. I remember hearing gunshots, then standing in front of the club with Harrison and Booger when Stork came running up. He said that you had been shot but were nowhere to be found.”
 
+“See? Okay then.”
 
-    “See? Okay then.”
+“We fanned out, asking around. Asking the officers, the emergency crews, fans. No one knew where you went. Then Stork’s screams came and my heart stopped.”
 
+“Jesus. Okay.”
 
-    “We fanned out, asking around. Asking the officers, the emergency crews, fans. No one knew where you went. Then Stork’s screams came and my heart stopped.”
+“Watching them perform CPR, that look on your face like you were already gone. The ambulance ride. Waiting out that long, tedious surgery, wondering if there was any chance. Then the relief the following morning when they said you were in the clear. That’s what I remember.”
 
+Matt clenched his jaw and squeezed his eyes shut. He took a deep breath, and exhaled slowly. 
 
-    “Jesus. Okay.”
-
-
-    “Watching them perform CPR, that look on your face like you were already gone. The ambulance ride. Waiting out that long, tedious surgery, wondering if there was any chance. Then the relief the following morning when they said you were in the clear. That’s what I remember.”
-
-
-    Matt clenched his jaw and squeezed his eyes shut. He took a deep breath, and exhaled slowly. 
-
-
-    “This isn’t easy for any of us,” Stork said as they came back into the room.
+“This isn’t easy for any of us,” Stork said as they came back into the room.
 
 “Yeah,” Booger said. “We need you back man.”
 
@@ -347,10 +343,11 @@ Matt shrugged. “Everything.”
 
 “Let me worry about the label,” McGuiness said. 
 
-“The point is…” \
-	“I know what the point is,” Matt snapped. 
+“The point is…”
 
- “All right,” McGuiness said. “It’s late, and you all have work tomorrow. I’ll worry about the label. Think of it as more practice time, change to refine some of the new stuff you keep talking about. Now, you guys get some rest,” he said, pointing from Stork to Matt. Stork nodded and followed them all to the door. Booger and Harrison waved and left. McGuiness paused at the door, looking for his car keys.
+“I know what the point is,” Matt snapped. 
+
+“All right,” McGuiness said. “It’s late, and you all have work tomorrow. I’ll worry about the label. Think of it as more practice time, change to refine some of the new stuff you keep talking about. Now, you guys get some rest,” he said, pointing from Stork to Matt. Stork nodded and followed them all to the door. Booger and Harrison waved and left. McGuiness paused at the door, looking for his car keys.
 
 “What do you think?” Stork whispered.
 
@@ -362,89 +359,89 @@ Matt shrugged. “Everything.”
 
 “Yeah,” Matt said. He ran his hands through his hair and let out a deep breath. “Yeah. Practice. Okay,” he said as he turned and went into the spare room they had turned into a practice room.
 
-	The sticks were cold yet smooth to the touch, and he felt at ease sitting on his throne behind his kit. He had spent many hours behind it before the incident, playing on his own and practicing with the band before their Saturday night gig at the club. The club owner had been looking for a regular to fill his Saturday night slot, and had offered it to them at the end of their first show. The crowds started to enlarge, and soon the club was packed wall to wall every Saturday night, singing and swaying to the music. Their poster was the centerpiece of a collage of rotating bands on the front windows of the club. Fans waited for autographs before and after the set. Record labels were sending scouts to watch their shows, and the club owner suggested they get a manager. Matt had sought out his old radio DJ friend McGuiness who had sold him his first drum kit. McGuiness came to see a show, and met with the band. He waited by the bar as the four members agreed that his promotions background, ties with the radio industry and his personality were just what they were looking for. McGuiness agreed to manage.
+The sticks were cold yet smooth to the touch, and he felt at ease sitting on his throne behind his kit. He had spent many hours behind it before the incident, playing on his own and practicing with the band before their Saturday night gig at the club. The club owner had been looking for a regular to fill his Saturday night slot, and had offered it to them at the end of their first show. The crowds started to enlarge, and soon the club was packed wall to wall every Saturday night, singing and swaying to the music. Their poster was the centerpiece of a collage of rotating bands on the front windows of the club. Fans waited for autographs before and after the set. Record labels were sending scouts to watch their shows, and the club owner suggested they get a manager. Matt had sought out his old radio DJ friend McGuiness who had sold him his first drum kit. McGuiness came to see a show, and met with the band. He waited by the bar as the four members agreed that his promotions background, ties with the radio industry and his personality were just what they were looking for. McGuiness agreed to manage.
 
-	Matt started with a soft four-on-the-floor, and eased himself into the basic jazz groove, letting the swing feeling permeate his thoughts. He closed his eyes, trying to feel the music. He saw the lights of the stage, Booger, Stork and Harrison in front of him, playing to the screaming fans. Sweat broke out on his brow as he saw screaming faces gaping at him, eyes full of tears, blood everywhere. He struggled to maintain tempo, and started striking the snare harder in an effort to drown out the sirens ringing in his ears. He stopped and buried his head in his hands, praying for it to stop.
+Matt started with a soft four-on-the-floor, and eased himself into the basic jazz groove, letting the swing feeling permeate his thoughts. He closed his eyes, trying to feel the music. He saw the lights of the stage, Booger, Stork and Harrison in front of him, playing to the screaming fans. Sweat broke out on his brow as he saw screaming faces gaping at him, eyes full of tears, blood everywhere. He struggled to maintain tempo, and started striking the snare harder in an effort to drown out the sirens ringing in his ears. He stopped and buried his head in his hands, praying for it to stop.
 
-	“That was such bullshit,” Matt said as Stanley sat quietly, listening. “I just wasn’t ready is all.”
+“That was such bullshit,” Matt said as Stanley sat quietly, listening. “I just wasn’t ready is all.”
 
-	“What happened on the 21<sup>st</sup>?”
+“What happened on the 21<sup>st</sup>?”
 
-	Matt smirked. “A post-demo record landing hospital release party, so to speak.”
+Matt smirked. “A post-demo record landing hospital release party, so to speak.”
 
-	“Right. The demo,” Stanly said consulting his notes. “And you had a meeting with executives from the label.”
+“Right. The demo,” Stanly said consulting his notes. “And you had a meeting with executives from the label.”
 
-	“Probably.”
+“Probably.”
 
-	“You don’t remember meeting with the executives?”
+“You don’t remember meeting with the executives?”
 
-	“There have been a bunch man.” Matt shifted uneasily in his chair. Stanly watched him fold and then unfold his hands, set them on the table and put them in his lap. He stood up and started pacing around the room, remembering the meeting. 
+“There have been a bunch man.” Matt shifted uneasily in his chair. Stanly watched him fold and then unfold his hands, set them on the table and put them in his lap. He stood up and started pacing around the room, remembering the meeting. 
 
 McGuiness had set the meeting for Monday to reschedule the recording sessions. Harrison also brought a live recording from Saturday’s concert of some new material they wanted to add. The five of them sat in the office with the executives, listening to the recording and waiting for a response. Booger had a big grin on his face, and kept thumping along to the bass line. Stork watched the executives tap their feet to the beat and looked at Harrison, smiling. Matt sat still, trying to control his breathing as he heard the screaming fans mix with the sound of sirens in his head. He heard loud pops, felt pain erupt from his stomach. He looked down, expecting to see blood oozing from the wound. He fought the urge to double over and squeezed his eyes shut as an executive turned the recording off.
 
-	“Sounds good guys,” Frank said.
+“Sounds good guys,” Frank said.
 
-	“Thank you,” Harrison said. “We have some fine tuning to do still.” He glanced from one band member to the other, then at Matt.
+“Thank you,” Harrison said. “We have some fine tuning to do still.” He glanced from one band member to the other, then at Matt.
 
-	“That’s fine. We can tinker with the time slots for your recording sessions.”
+“That’s fine. We can tinker with the time slots for your recording sessions.”
 
-	“I’ll be ready by Thursday,” Matt said
+“I’ll be ready by Thursday,” Matt said
 
-	“There’s no need to rush Matt,” McGuiness said.
+“There’s no need to rush Matt,” McGuiness said.
 
-	“Yes, that’s right,” Frank said, looking at Matt. “Take all the time you need.” He saw beads of sweat dot Matt’s forehead.
+“Yes, that’s right,” Frank said, looking at Matt. “Take all the time you need.” He saw beads of sweat dot Matt’s forehead.
 
 “You don’t think I can be?” Matt couldn’t keep the anger out of his voice.
 
-	“Matt,” Stork said, laying a gentle hand on his shoulder. “Easy man.”
+“Matt,” Stork said, laying a gentle hand on his shoulder. “Easy man.”
 
-	“We’ve already got the time. Will you just listen to me,” Matt said, shaking him off. “I can’t help what happened, okay. It was your fault.” He glared at Stork.
+“We’ve already got the time. Will you just listen to me,” Matt said, shaking him off. “I can’t help what happened, okay. It was your fault.” He glared at Stork.
 
-	“You’ve said that already,” Stork said. 
+“You’ve said that already,” Stork said. 
 
-	“Maybe sometime you’ll get it,” Matt said roughly.
+“Maybe sometime you’ll get it,” Matt said roughly.
 
-	Stork stared inquisitively at Matt. “You keep repeating it like you’re trying to convince yourself.”
+Stork stared inquisitively at Matt. “You keep repeating it like you’re trying to convince yourself.”
 
-	He saw an arm raise and a fist fly at his face. A body jumped in front of him, absorbing the blow. Booger doubled up his fists and set himself for Matt’s next blow.
+He saw an arm raise and a fist fly at his face. A body jumped in front of him, absorbing the blow. Booger doubled up his fists and set himself for Matt’s next blow.
 
 “Stop,” McGuiness said as he slipped his strong arms around Matt’s shoulders and dragged him out of the office. 
 
-	“He’s lost it,” Booger said as the door closed. 
+“He’s lost it,” Booger said as the door closed. 
 
-	“Damnit Booger. He hasn’t lost it,” Stork said. “He’s just pissed at me because I found him.”
+“Damnit Booger. He hasn’t lost it,” Stork said. “He’s just pissed at me because I found him.”
 
-	“Everything reminds him of it,” Frank said. “And he wants to forget.”
+“Everything reminds him of it,” Frank said. “And he wants to forget.”
 
-	“I know the feeling,” Booger said as he sat down. “So what do we do?”
+“I know the feeling,” Booger said as he sat down. “So what do we do?”
 
-	Frank looked at his coworkers, then at the band. “Get him some help.” 
+Frank looked at his coworkers, then at the band. “Get him some help.” 
 
-	“He won’t take it,” Stork said.
+“He won’t take it,” Stork said.
 
-	“He’ll take it,” Frank said.
+“He’ll take it,” Frank said.
 
-	Outside, Matt braced himself against the side of the building, felt the sun burn into his black shirt. “I should go apologize,” he said. “That was totally uncalled for.”
+Outside, Matt braced himself against the side of the building, felt the sun burn into his black shirt. “I should go apologize,” he said. “That was totally uncalled for.”
 
-	“You need some help Matt.”
+“You need some help Matt.”
 
-	“Mack, c’mon. We’ve got a record to do. Just let me go back in and apologize. I wasn’t thinking clearly. I don’t want to hurt anybody, just me. Let me go back in and apologize for the whole thing.”
+“Mack, c’mon. We’ve got a record to do. Just let me go back in and apologize. I wasn’t thinking clearly. I don’t want to hurt anybody, just me. Let me go back in and apologize for the whole thing.”
 
-	“Matt, I’m not sure you’re fully conscious of what you’re saying.”
+“Matt, I’m not sure you’re fully conscious of what you’re saying.”
 
-	“It’s out of my system okay.”
+“It’s out of my system okay.”
 
-	“You need some help.”
+“You need some help.”
 
-	 “Weren’t you listening?”
+“Weren’t you listening?”
 
-	“Yes.”
+“Yes.”
 
 “I’m not a fucking recovering moron.” Matt slammed his fist into the wall, feeling the skin on his knuckles break. “I’m sorry,” he said as he turned around, shoving his hands in his pockets as he looked at the sidewalk. “I didn’t mean it.”
 
 “Matt.”
 
-	“What about the label?”
+“What about the label?”
 
 “This is their suggestion as much as mine.”
 
@@ -464,217 +461,208 @@ McGuiness stared hard at Matt. “If they thought you were a liability, they wou
 
 “They know what happened, they understand.”
 
-	“Fucking everybody knows.”
+“Fucking everybody knows.”
 
-	“Everybody was there, Matt.”
+“Everybody was there, Matt.”
 
-	Matt took a deep breath.
+Matt took a deep breath.
 
-	Stanly made some notes as Matt continued pacing around the room. “You’ve got a smart manager.”
+Stanly made some notes as Matt continued pacing around the room. “You’ve got a smart manager.”
 
-	“Yeah. I know.”
+“Yeah. I know.”
 
-	“He’s a good guy. He knows what he’s talking about.”
+“He’s a good guy. He knows what he’s talking about.”
 
-	“It was embarrassing.” Matt put his hands on the back of a chair and stared at the table. 
+“It was embarrassing.” Matt put his hands on the back of a chair and stared at the table. 
 
 “I don’t think they’ll hold the meeting against you.” 
 
-	“What? You talk to the execs as well? Jesus. Who didn’t you talk to?”
+“What? You talk to the execs as well? Jesus. Who didn’t you talk to?”
 
-	“How did you cut your hand?”
+“How did you cut your hand?”
 
-	“Oh not this again,” Matt said, rolling his eyes as he sat down. 
+“Oh not this again,” Matt said, rolling his eyes as he sat down. 
 
-	“C’mon, how’d you do it?”
+“C’mon, how’d you do it?”
 
-	“I already told you. I cut it on a glass,” Matt said, holding his hand out so the bandage was visible.
+“I already told you. I cut it on a glass,” Matt said, holding his hand out so the bandage was visible.
 
-	Stanly shook his head. “I don’t think you did.”
+Stanly shook his head. “I don’t think you did.”
 
-	“Stanly. I got home from the gig, poured a glass of water, and set it down.”
+“Stanly. I got home from the gig, poured a glass of water, and set it down.”
 
-	“You set it down with quite a bit of force.”
+“You set it down with quite a bit of force.”
 
-	“All those drumming muscles.”
+“All those drumming muscles.”
 
-	Stanly chuckled. “I swear that I am unimpressed by clever answers.”
+Stanly chuckled. “I swear that I am unimpressed by clever answers.”
 
-	“Who said I was being clever?” Matt leaned back in the chair and folded his hands behind his head, a smug grin on his face.
+“Who said I was being clever?” Matt leaned back in the chair and folded his hands behind his head, a smug grin on his face.
 
-	“You’re in nine kinds of pain. And you’re so locked into damage control, you don’t know what’s going on inside of you.”
+“You’re in nine kinds of pain. And you’re so locked into damage control, you don’t know what’s going on inside of you.”
 
-	“It took you six hours to come up with that?” There was silence for a moment as Matt let the chair legs touch the ground. “So what is it?”
+“It took you six hours to come up with that?” There was silence for a moment as Matt let the chair legs touch the ground. “So what is it?”
 
-	Stanly capped his pen and set it down on the table. “You have post-traumatic stress disorder.”
+Stanly capped his pen and set it down on the table. “You have post-traumatic stress disorder.”
 
-	Matt let out a nervous laugh as he slouched in the chair and folded his hands on top of his chest. “Really.”
+Matt let out a nervous laugh as he slouched in the chair and folded his hands on top of his chest. “Really.”
 
-	“Yep.”
+“Yep.”
 
-	“I don’t think that’s something they let you have in the music business.”
+“I don’t think that’s something they let you have in the music business.”
 
-	Stanly didn’t say anything. Matt ran his hands through his hair again, and leaned back in the chair.
+Stanly didn’t say anything. Matt ran his hands through his hair again, and leaned back in the chair.
 
-	“Look,” Matt said. “I’m not trying to be difficult or anything.”
+“Look,” Matt said. “I’m not trying to be difficult or anything.”
 
-	“I don’t think you are.”
+“I don’t think you are.”
 
-	“I know you you’re trying to help.”
+“I know you you’re trying to help.”
 
-	“I’m trying to get you to remember the shooting without reliving it.”
+“I’m trying to get you to remember the shooting without reliving it.”
 
-	“I’m not trying to be difficult.”
+“I’m not trying to be difficult.”
 
-	“And you have been reliving it. It happened during the meeting.”
+“And you have been reliving it. It happened during the meeting.”
 
-	“That…nah. That was just stress.”
+“That…nah. That was just stress.”
 
-	“It happened during the performance.”
+“It happened during the performance.”
 
-	“Stanly.”
+“Stanly.”
 
-	“It happened…during the performance,” Stanly said, tapping his pen for emphasis.
+“It happened…during the performance,” Stanly said, tapping his pen for emphasis.
 
-	Matt put his head in his hands as he rested his elbows on the table. He felt his fingers close tightly around his hair as the screaming filled his ears again.
+Matt put his head in his hands as he rested his elbows on the table. He felt his fingers close tightly around his hair as the screaming filled his ears again.
 
-	“Talk about the night of performance,” Stanly said softly.
+“Talk about the night of performance,” Stanly said softly.
 
-	“I was fine.”
+“I was fine.”
 
-	“What started it?”
+“What started it?”
 
-	“I don’t know.
+“I don’t know.
 
-	“Yes you do.”
+“Yes you do.”
 
-	“I don’t know,” Matt said as slammed his fist down on the table. “I was fine.” He rubbed his eyes and leaned on the table. 
+“I don’t know,” Matt said as slammed his fist down on the table. “I was fine.” He rubbed his eyes and leaned on the table. 
 
 The stage lights burned down on them as they took the stage, fans screaming and clapping. He sat down behind his kit and counted off two measures with his sticks before the band launched into their opening song. It felt good to be on stage again, playing with three guys he considered good friends. Stork smiled at him as Harrison started singing. The screaming became more intense, and the fans in the front started shouting out the words along with Harrison. Cameras flashed. Gunfire rang in his ears. A bitter taste flooded his mouth. He heard sirens that sounded in unison with the screaming voices. He squeezed his eyes shut and tried to focus on Booger’s bass line as pain erupted in his stomach with each flash of a camera. Sweat poured down his face. He leaned over to spit out the bitter tasting liquid and doubled over in pain. He dragged himself off stage as Bryan the tech hurried to fill in. McGuiness rushed over and helped Matt clear the stage, motioning to rest of the band to keep going.
 
-	“Jesus Christ. Matt,” McGuiness said as he dragged him to the back room. “Matt. C’mon, talk to me.”
+“Jesus Christ. Matt,” McGuiness said as he dragged him to the back room. “Matt. C’mon, talk to me.”
 
-	Matt struggled to free himself as McGuiness tried to hold him down and see if something else was wrong. Matt punched him in the jaw and headed for the exit, the sound of gunfire drowning out McGuiness’s calls. He staggered down the street to the apartment he shared with Stork, and let himself in.
+Matt struggled to free himself as McGuiness tried to hold him down and see if something else was wrong. Matt punched him in the jaw and headed for the exit, the sound of gunfire drowning out McGuiness’s calls. He staggered down the street to the apartment he shared with Stork, and let himself in.
 
-	“I couldn’t make it stop,” Matt said through gritted teeth.
+“I couldn’t make it stop,” Matt said through gritted teeth.
 
-	“No, you couldn’t, but you had been trying to for three weeks. What happened when you went home?” Stanly watched Matt’s face reveal the struggle of suppression.
+“No, you couldn’t, but you had been trying to for three weeks. What happened when you went home?” Stanly watched Matt’s face reveal the struggle of suppression.
 
-	“Nothing,” Matt said as he sat up and folded his hands on the table. He struggled to keep his voice from shaking. 
+“Nothing,” Matt said as he sat up and folded his hands on the table. He struggled to keep his voice from shaking. 
 
-	“Okay,” Stanly said as he got up and sat down in the chair next to Matt’s. 
+“Okay,” Stanly said as he got up and sat down in the chair next to Matt’s. 
 
-	“Nothing happened.”
+“Nothing happened.”
 
 “Can you honestly tell me you didn’t think about Rory?”
 
-	“Why would I think about Rory?” \
-	“Can you honestly tell me you didn’t wonder if you were suicidal too?”
+“Why would I think about Rory?”
 
-	“I didn’t wonder that,” Matt said as he clenched his hands into fists.
+“Everything the two of you had in common.”
 
-	“You’re lying.”
+“We had nothing in common. I didn’t know the guy.”
 
-	“I didn’t wonder that.”
+“You knew you had the same birthday.”
 
-	“Everything the two of you had in common.”
+“So what? That doesn’t mean anything.”
 
-	“We had nothing in common. I didn’t know the guy.”
+“You knew something else.”
 
-	“You knew you had the same birthday.”
+“Stanly,” Matt said as he put his head in his hands.
 
-	“So what? That doesn’t mean anything.”
+“You knew that his plane had been shot down, that he had ejected, he was held hostage, and there were some injuries.”
 
-	“You knew something else.”
+“Big fucking deal,” Matt said as he got up violently from the table, causing the chair to fall backward. He braced himself against the wall.
 
-	“Stanly,” Matt said as he put his head in his hands.
+“Matt,” Stanly said, coming up beside him.
 
-	“You knew that his plane had been shot down, that he had ejected and that there were some injuries.”
+“No. Please.” He squeezed his eyes shut in an effort to block out the sound of breaking glass. “Nothing happened.”
 
-	“Big fucking deal,” Matt said as he got up violently from the table, causing the chair to fall backward. He braced himself against the wall.
+“Matt, how did you cut your hand?” 
 
-	“Matt,” Stanly said, coming up beside him.
+He rested his elbows on the wall, clenching his hand, feeling pain shoot through it like it had when he thrust his hand through the window of his bedroom. The emotion twinkled down with the glass shards that sparkled in the streetlight. Blood oozed from the wound as relief washed over him, causing his body to collapse on the floor. He could hear pounding on the door, and the voice of McGuiness demanding to be let in. Matt got up quickly and wrapped his hand in a towel that was lying on his bed.
 
-	“No. Please.” He squeezed his eyes shut in an effort to block out the sound of breaking glass. “Nothing happened.”
+“I’m okay,” Matt said as he unlocked the door and opened it a crack.
 
-	“Matt, how did you cut your hand?” 
+“What happened? I heard something break.”
 
-	He rested his elbows on the wall, clenching his hand, feeling pain shoot through it like it had when he thrust his hand through the window of his bedroom. The emotion twinkled down with the glass shards that sparkled in the streetlight. Blood oozed from the wound as relief washed over him, causing his body to collapse on the floor. He could hear pounding on the door, and the voice of McGuiness demanding to be let in. Matt got up quickly and wrapped his hand in a towel that was lying on his bed.
+“Nothing, don’t worry about it.”
 
-	“I’m okay,” Matt said as he unlocked the door and opened it a crack.
+McGuiness put his arm on the door and pushed, knocking Matt off balance. He looked from the broken window to Matt’s hand. “Feel better?”
 
-	“What happened? I heard something break.”
+“Did you?” Stanly asked.
 
-	“Nothing, don’t worry about it.”
+Matt leaned against the wall and ran his hands through his hair. He looked at the bandage. “Yeah.”
 
-	McGuiness put his arm on the door and pushed, knocking Matt off balance. He looked from the broken window to Matt’s hand. “Feel better?”
+“Okay then,” Stanly said.
 
-	“Did you?” Stanly asked.
+“Okay then? I broke a window.”
 
-	Matt leaned against the wall and ran his hands through his hair. He looked at the bandage. “Yeah.”
+“Yeah. Stop doing that.”
 
-	“Okay then,” Stanly said.
+Matt looked at Stanly, puzzled. “That’ll fix it?”
 
-	“Okay then? I broke a window in the apartment.”
+Stanly smiled. “Yeah. Sure. But stop doing that," he said as went back to the table. He picked his brief case up off the floor.
 
-	“Yeah. Stop doing that.”
+Matt stared at the table, confused. “That’s it? We’re done?”
 
-	Matt looked at Stanly, puzzled. “That’ll fix it?”
+“Yes Matt, we’re done.”
 
-	Stanly smiled. “Yeah. Sure. I want to commend you on not hurting anyone else, or yourself to badly. Nevertheless, stop doing that,” Stanly said as went back to the table. He picked his brief case up off the floor.
+“Wait a second. Hold on. What happens if somebody else’s cousin whom I share a birthday with and that I’ve never met kills himself?”
 
-	Matt stared at the table, confused. “That’s it? We’re done?”
+“Nah. That’s not the problem,” Stanly said. 
 
-	“Yes Matt, we’re done.”
+“What is the problem?”
 
-	“Wait a second. Hold on. What happens if somebody else’s cousin whom I share a birthday with and that I’ve never met kills himself?”
+“The sound of screaming fans.”
 
-	“Nah. That’s not the problem,” Stanly said. 
+“What? Bullshit. How can that be?”
 
-	“What is the problem?”
+Stanly closed his brief case and put on his suit coat. “With a gun shot victim, usually something such as the sound of a car backfiring or a twig snapping triggers intense flashbacks. With you, however, the sound of screaming voices…”
 
-	“The sound of screaming fans.”
+“Are the same as sirens,” Matt interrupted.
 
-	“What? Bullshit. How can that be?”
+“Yes,” Stanly said.
 
-	Stanly closed his brief case and put on his suit coat. “With a gun shot victim, usually something such as the sound of a car backfiring or a twig snapping triggers intense flashbacks. With you, however, the sound of screaming voices…”
+"And sirens bring it all back." Matt sat back in the chair and scowled at the table. “So much for live performances.”
 
-	“Are the same as sirens,” Matt interrupted.
+“Not necessarily.”
 
-	“Yes,” Stanly said, smiling.
+Matt looked up. “Really? Why?”
 
-	Matt sat back in the chair and scowled at the table. “So much for live performances.”
+“Because…people get better. And with a little time, you’ll be able to perform live.” Stanly leaned forward. “You just have to have patience and give it time.”
 
-	“Not necessarily.”
-
-	Matt looked up. “Really? Why?”
-
-	“Because…people get better. And with a little time, you’ll be able to perform live.” Stanly leaned forward. “You just have to have patience and give it time.”
-
-	Matt stood up and followed Stanly out into the hall.	
+Matt stood up and followed Stanly out into the hall.	
 
 “Patience,” Stanly said.
 
 “Right. Patience,” Matt said as they shook hands. He watched Stanly walk down the hall and out the door. He turned and headed back towards the studio. A few people were wandering the halls, carrying equipment and paperwork from one room to another. They nodded at Matt in passing. He watched another band go through a final take, then pack up their gear. The five members filed out into the hall, and stopped when they saw Matt.
 
-	“Hey,” the tall, blonde one said as he motioned towards Matt. “That’s him.” Matt felt his body tense as the five members approached. He tried to brace himself for the sound of gunfire he expected to erupt from their mouths as they introduced themselves. He automatically put his palm over the wound as if to stop it from ripping open. They gave him a pat on the back, said congrats on the record deal and continued on down the hall. He stood there a minute, running his hands through his hair, staring at the floor and finding himself oddly relaxed. 
+“Hey,” the tall, blonde one said as he motioned towards Matt. “That’s him.” Matt felt his body tense as the five members approached. He tried to brace himself for the sound of gunfire he expected to erupt from their mouths as they introduced themselves. He automatically put his palm over the wound as if to stop it from ripping open. They gave him a pat on the back, said congrats on the record deal and continued on down the hall. He stood there a minute, running his hands through his hair, staring at the floor and finding himself oddly relaxed. 
 
-	“You seemed to handle that well,” McGuiness said.
+“You seemed to handle that well,” McGuiness said.
 
-	Matt looked up. “Yeah.” He took a deep breath and let it out slowly. “It’s weird.”
+Matt looked up. “Yeah.” He took a deep breath and let it out slowly. “It’s weird.”
 
-	“What?”
+“What?”
 
-	“Having other people, other musicians, tell you you’re an inspiration, and mean it.” He picked at his bandaged hand.
+“Having other people, other musicians, tell you you’re an inspiration, and mean it.” He picked at his bandaged hand.
 
-	“You need to get that checked out.”
+“You need to get that checked out.”
 
-	“I know.”
+“I know.”
 
-	“Today.”
+“Today.”
 
-	“Okay.” He wandered down to the recording studio.
+“Okay.” He wandered down to the recording studio.
 
-	All their gear was set up. Harrison and Stork were tuning their guitars off to one side. Neither took notice as he entered the room. Booger stood on the opposite side of the room, absentmindedly plucking away on his bass. Matt walked over to his kit. He ran his hands over the cymbals and the heads; then sat down on his throne. He took a deep breath, slowly exhaling and relaxing his muscles. He stretched his arms, wrists and fingers before picking up his sticks that were lying on the snare. His ear picked up Booger’s bass. He knew that bass line, and launched into the song. Booger looked up as Matt gave him a nod and wink. Stork’s guitar came in, followed by Harrison’s strong, soothing voice.
-
-	
+All their gear was set up. Harrison and Stork were tuning their guitars off to one side. Neither took notice as he entered the room. Booger stood on the opposite side of the room, absentmindedly plucking away on his bass. Matt walked over to his kit. He ran his hands over the cymbals and the heads; then sat down on his throne. He took a deep breath, slowly exhaling and relaxing his muscles. He stretched his arms, wrists and fingers before picking up his sticks that were lying on the snare. His ear picked up Booger’s bass. He knew that bass line, and launched into the song. Booger looked up as Matt gave him a nod and wink. Stork’s guitar came in, followed by Harrison’s strong, soothing voice.
