@@ -5,11 +5,6 @@
     display: none !important;
 }
 
-/* Hide Minima's default footer */
-.site-footer .site-footer-inner {
-    display: none;
-}
-
 /* Optional: Sticky footer for short pages */
 .site-footer {
     position: fixed;
