@@ -2,24 +2,7 @@ title: Public Writing
 theme: minima
 markdown: kramdown
 
-# Pages to show in the top-right menu
-header_pages: []  # empty so no link appears
+header_pages: []
 
-# SASS config
 sass:
   style: compressed
-
-# Optional: custom CSS
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      css: "/assets/css/custom.css"
-
-#name
-owner: "Gwynne Monahan"
-
-#copyright
-copyright: "© {{ 'now' | date: '%Y' }} Gwynne Monahan. All rights reserved."
-
