@@ -1,6 +1,6 @@
 Nine Kinds of Pain
 
-				       By Gwynne Monahan
+By Gwynne Monahan
 
   
 
@@ -10,21 +10,21 @@ He adjusted the collar of his jacket as he pushed open the doors to a conference
 
 Dr. Stanly Stevens introduced himself and shook Matt’s hand as he approached the table, glancing at the hastily wrapped bandage on the other. 
 
-	“Look, Dr. Stevens,” Matt said.
+“Look, Dr. Stevens,” Matt said.
 
-	“You can call me Stanly. Please, have a seat.”
+“You can call me Stanly. Please, have a seat.”
 
-	“Okay. Stanly. I don’t…” 
+“Okay. Stanly. I don’t…” 
 
 “What happened to your hand?” Stanly interrupted.
 
-	Matt looked at the bandage and swallowed. “Oh. I…uh…cut it. On a glass.”
+Matt looked at the bandage and swallowed. “Oh. I…uh…cut it. On a glass.”
 
-	“The glass broke?”
+“The glass broke?”
 
-	“Yeah.”
+“Yeah.”
 
- “I see.” Stanly made a note in a file spread across the table. “Well, let me tell you a little about who we are, what we do.”
+“I see.” Stanly made a note in a file spread across the table. “Well, let me tell you a little about who we are, what we do.”
 
 “I know what ATVA is. I read.”
 
@@ -32,45 +32,45 @@ Stanly pursed his lips. “OK. Tell to me about the shooting.”
 
 Matt shrugged, a look of nervous indifference plastered on his face. “I got shot. So what? It happens. Nothing new.”
 
-	“Who was with you?”
+“Who was with you?”
 
-	“Everybody.”
+“Everybody.”
 
-	“Who is everybody?”
+“Who is everybody?”
 
-	Matt leaned back in the chair so that the front two legs were not touching the floor. “Booger our bassist, the multi-talented Harrison, Stork our other guitarist, Mack our manager, the techs and crew, promotions people. Everybody. It was our demo night.”
+Matt leaned back in the chair so that the front two legs were not touching the floor. “Booger our bassist, the multi-talented Harrison, Stork our other guitarist, Mack our manager, the techs and crew, promotions people. Everybody. It was our demo night.”
 
-	“What happened?”
+“What happened?”
 
-	Matt shrugged. “I walked out of the club, heard gunfire and woke up in a hospital room. End of story.”
+Matt shrugged. “I walked out of the club, heard gunfire and woke up in a hospital room. End of story.”
 
-	“Okay.” Stanly made some notes in a file that was spread out in front of him.
+“Okay.” Stanly made some notes in a file that was spread out in front of him.
 
-	Matt let the chair fall back towards the table. “Are we done?” 
+Matt let the chair fall back towards the table. “Are we done?” 
 
-	“What happened three weeks ago?”
+“What happened three weeks ago?”
 
-	“Three weeks ago? Any number of things happened three weeks ago. I don’t know exactly what you’re referring to.” His eyes glanced down at the pages, the inversed words offering no explanation.
+“Three weeks ago? Any number of things happened three weeks ago. I don’t know exactly what you’re referring to.” His eyes glanced down at the pages, the inversed words offering no explanation.
 
-	Stanly flipped through some pages in the file. “I don’t know what I’m referring to either. Your band mates and your manager said that they became concerned about your behavior three weeks ago.”
+Stanly flipped through some pages in the file. “I don’t know what I’m referring to either. Your band mates and your manager said that they became concerned about your behavior three weeks ago.”
 
-	Matt laughed. “They’re ones to talk. Jesus.” His leg bounced nervously. “They were probably talking about Rory.”
+Matt laughed. “They’re ones to talk. Jesus.” His leg bounced nervously. “They were probably talking about Rory.”
 
-	“Rory.” Stanly consulted his notes. “Stork’s cousin.”
+“Rory.” Stanly consulted his notes. “Stork’s cousin.”
 
-	“Right.”
+“Right.”
 
-	“What about Rory?”
+“What about Rory?”
 
-	“I don’t know.”
+“I don’t know.”
 
-	“You just said they were talking about Rory.”
+“You just said they were talking about Rory.”
 
-	“I said they were probably talking about Rory. There was a lot going on then with going back to work and rehearsing. We all still have straight jobs you know, some of us rather lucrative ones, that cover costs, and I’m still paying off hospital bills.” 
+“I said they were probably talking about Rory. There was a lot going on then with going back to work and rehearsing. We all still have straight jobs you know, some of us rather lucrative ones, that cover costs, and I’m still paying off hospital bills.” 
 
-	“Okay. What makes you think they were probably talking about Rory?”
+“Okay. What makes you think they were probably talking about Rory?”
 
-	Matt ran his hands through his hair and rubbed his eyes. “What is this, 20 questions?”
+Matt ran his hands through his hair and rubbed his eyes. “What is this, 20 questions?”
 
 “It’s my job, Matt.”
 
@@ -80,35 +80,35 @@ Matt shrugged, a look of nervous indifference plastered on his face. “I got sh
 
 Matt sighed. “He died that week.”
 
-	“How?”
+“How?”
 
-	“He was an Air Force pilot,” Matt said, shifting nervously in the chair.
+“He was an Air Force pilot,” Matt said, shifting nervously in the chair.
 
-	“So what happened?”
+“So what happened?”
 
-	Matt rolled his eyes. “You gotta be kidding me. The paper did a front-page tribute. He’s a big hero, was a big hero.”
+Matt rolled his eyes. “You gotta be kidding me. The paper did a front-page tribute. He’s a big hero, was a big hero.”
 
-	“It wasn’t on the front page of the sports section. How did he die?”
+“It wasn’t on the front page of the sports section. How did he die?”
 
 “He shot himself. Allegedly.” Matt leaned back in the chair again.
 
 “Did you know him?”
 
-	“Who? Rory. No. He and Stork were close is all. Stork has been my roommate since college, and talked about him all the time; go on about how he was serving his country, his survival skills when he was... Like I said, I didn’t know him.”
+“Who? Rory. No. He and Stork were close is all. Stork has been my roommate since college, and talked about him all the time; go on about how he was serving his country, his survival skills when he was... Like I said, I didn’t know him.”
 
 Matt slouched in the chair, remembering those first couple nights after Rory’s death three weeks ago. The stink of hostipal was still on his skin as he listened to Stork speak with a mix of revearance, frustration and sorrow and how he wished he had known what to do. Matt silently seethed with jealously, staying up the rest of the night, rereading the articles he had clipped until he had them memorized. A decorated combat veteran, they said, found dead from a gunshot wound. A strange feeling overcame him as he imagined the peace Rory must have felt when he swallowed the bullet. He ran to the bathroom, the stitches burning as a dry heave racked his body. Screams and sirens rang in his ears as he crouched on the floor, shaking, imagining the taste of lead as he swallowed.  
 
-	“It doesn’t bother you?” Matt had asked Stork the following day after work. They were shooting pool at a local bar before heading to the studio.
+“It doesn’t bother you?” Matt had asked Stork the following day after work. They were shooting pool at a local bar before heading to the studio.
 
-	“Sure. It bothers me.”
+“Sure. It bothers me.”
 
-	“A perfectly healthy guy shoots himself and you can just leave it at that?”	“Obviously he wasn’t perfectly healthy.” Stork knocked the nine-ball into the left-center pocket. He looked at Matt, his slouched stance; the nervous glances around the bar that had been their hang out the past two years; the scared, distant look in his eye. He remembered the Matt so full of energy that it spilled over into the band and sustained them gig after gig. All three felt as if they could play forever while Matt was behind his kit. His energy had landed them their permanent gig at the club that eventually led to the record deal.
+“A perfectly healthy guy shoots himself and you can just leave it at that?”	“Obviously he wasn’t perfectly healthy.” Stork knocked the nine-ball into the left-center pocket. He looked at Matt, his slouched stance; the nervous glances around the bar that had been their hang out the past two years; the scared, distant look in his eye. He remembered the Matt so full of energy that it spilled over into the band and sustained them gig after gig. All three felt as if they could play forever while Matt was behind his kit. His energy had landed them their permanent gig at the club that eventually led to the record deal.
 
 “Stop staring at me and finish your shot,” Matt said.
 
- 	Stork wondered if the energy had been drained during that agonizing operation to save him. Stork remembered standing in front of a crowd outside the back of the club, signing autographs and gabbing with friends who had come to see the show. Matt had been right next to him, then something cut between them as the sound of gunfire silenced the conversation. He still couldn’t remember what happened, but he remembered Matt staring at him, wide-eyed, clutching his stomach. Blood oozed around his fingers and soaked his shirt. People ran screaming in every direction. He lost sight of Matt in the frenzy. Uniformed cops arrived on the scene, calming the public, calling for ambulances and inquiring about the shooter and possible targets. Stork found the band grouped in front of the club, taking in the scene. There was no sign of Matt. The three of them fanned out, checking the ambulances and asking other people if they had seen him. Stork had wandered down toward the rear of the club, by the doors they had come out of when the shots were fired. He looked around in the dim light from the street lamp, then wandered down the alley, his heart sinking to the pit of his stomach.
+Stork wondered if the energy had been drained during that agonizing operation to save him. Stork remembered standing in front of a crowd outside the back of the club, signing autographs and gabbing with friends who had come to see the show. Matt had been right next to him, then something cut between them as the sound of gunfire silenced the conversation. He still couldn’t remember what happened, but he remembered Matt staring at him, wide-eyed, clutching his stomach. Blood oozed around his fingers and soaked his shirt. People ran screaming in every direction. He lost sight of Matt in the frenzy. Uniformed cops arrived on the scene, calming the public, calling for ambulances and inquiring about the shooter and possible targets. Stork found the band grouped in front of the club, taking in the scene. There was no sign of Matt. The three of them fanned out, checking the ambulances and asking other people if they had seen him. Stork had wandered down toward the rear of the club, by the doors they had come out of when the shots were fired. He looked around in the dim light from the street lamp, then wandered down the alley, his heart sinking to the pit of his stomach.
 
-	The alley was dark and lined with dumpsters. He stood in the middle, looking around at the newspapers, bags and beer cans that clung to the edges and the walls. There were dim outlines that could be bodies or mounds of paper. He squinted in an effort to distinguish trash from flesh. He saw a sole sticking out from the far corner of a dumpster, and sprinted to the site, pulling the dumpster away from the work boots he knew too well. He screamed for help as he stared at Matt who sat hunched against the wall, clutching his stomach and staring at the sky. 
+The alley was dark and lined with dumpsters. He stood in the middle, looking around at the newspapers, bags and beer cans that clung to the edges and the walls. There were dim outlines that could be bodies or mounds of paper. He squinted in an effort to distinguish trash from flesh. He saw a sole sticking out from the far corner of a dumpster, and sprinted to the site, pulling the dumpster away from the work boots he knew too well. He screamed for help as he stared at Matt who sat hunched against the wall, clutching his stomach and staring at the sky. 
 
 “What’s your problem?” Matt asked. 
 
@@ -315,7 +315,6 @@ The shoulders slouched, the eyes moved to the floor. “Yeah. So.”
 “What do you remember?”
 
 Matt shrugged. “Everything.”
-
 
 “What, exactly?” 
 
