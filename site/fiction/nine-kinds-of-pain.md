@@ -1,8 +1,6 @@
-Nine Kinds of Pain
+# Nine Kinds of Pain
+### By Gwynne Monahan
 
-By Gwynne Monahan
-
-  
 
 Matt was relieved to find the building deserted. No late night crew closing up or mixing a night’s work. His band mates were just starting their day jobs and wouldn’t be around until the evening. They would be recording material from their regular gig at the club. The thought of the club made his stomach churn, the scar on his abdomen ache. He sat down behind the worn practice kit in the sound room, looked at his bandaged hand, ran his fingers over the damp blood spots that were forming. He picked a pair of sticks up off the floor, tapped one on his leg with his left hand and twirled the other in his right, watching the bandage turn crimson as he waited for inspiration. He started with a simple jazz groove, closing his eyes, trying to let the music flow through his limbs as they moved gracefully around the kit. He felt the heat of the lights, heard screams in his ears mixed with sirens. He stopped playing and squeezed his eyes shut, his breath coming in ragged gasps. The stomach wound burned as if the bullet had ripped through his skin and muscle again. His old watch ticked loudly as he took a few deep breathes, got up from behind the kit and went back out into the hallway.
 
