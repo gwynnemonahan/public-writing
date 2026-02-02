@@ -1,13 +1,13 @@
-/* Hide the top-right links in Minima */
+/* Hide top-right links */
 .header .page-link,
 .site-header .page-link,
 .header a {
     display: none !important;
 }
 
-/* Optional: Sticky footer for short pages */
+/* Optional: sticky footer at bottom of viewport */
 .site-footer {
-    position: fixed;
+    position: fixed; /* remove if you don't want sticky */
     bottom: 0;
     left: 0;
     width: 100%;

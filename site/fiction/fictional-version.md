@@ -52,6 +52,7 @@ Kits Beach. Bally swallowed. "Great. And thank you, again. I'll do the dishes."
 
 They walked to Stanley's car, and put their bags in the back. Bally took out Rocco's car harness, got him situated, then climbed in and sat next to him. She listened to Leanne talk about her three months in small African countries, providing aid, education, and training. Her eyes felt heavy, but her mind remained in overdrive. Rocco shifted, and rested his head in her lap. She smiled at him, and stroked his head.
 
+
 <!--
 Bally sat at a table near the window, watching the snow fall. It was well past the departure time. By hour three, she had figured the flight would be canceled. It took them until hour five to cancel the flight. Some kind of mechanical issue. There were no other flights leaving for her destination tonight. 
 
@@ -164,3 +165,5 @@ Bally nodded and started to open the book she had been reading. She looked out t
 "I was headed to Chicago, but," she motioned out the window. "Mother Nature had other plans, so I'll hang out for the night, see if I can catch the first flight out tomorrow."
 
 "Don't be silly," Jeanne said.
+
+

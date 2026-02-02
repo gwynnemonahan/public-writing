@@ -336,6 +336,3 @@ The stage lights burned down on them as they took the stage, fans screaming and 
 	“Today.”
 	“Okay.” He wandered down to the recording studio.
 	All their gear was set up. Harrison and Stork were tuning their guitars off to one side. Neither took notice as he entered the room. Booger stood on the opposite side of the room, absentmindedly plucking away on his bass. Matt walked over to his kit. He ran his hands over the cymbals and the heads; then sat down on his throne. He took a deep breath, slowly exhaling and relaxing his muscles. He stretched his arms, wrists and fingers before picking up his sticks that were lying on the snare. His ear picked up Booger’s bass. He knew that bass line, and launched into the song. Booger looked up as Matt gave him a nod and wink. Stork’s guitar came in, followed by Harrison’s strong, soothing voice.
-	
- 
-
