@@ -170,7 +170,7 @@ Matt turned his collar to the wind, shoved his hands in his pockets and brushed 
 
 “I don’t know,” Matt said, shifting uncomfortably in the chair. “Don’t your notes tell you that too?”
 
-“Did they express their concern?” \
+“Did they express their concern?”
 
 “If you want to know what they did or didn’t do, why don’t you ask them?”
 
