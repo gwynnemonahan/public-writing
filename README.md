@@ -8,7 +8,7 @@ This repo is a place where I am practicing/experimenting with the following:
 
 You can find my creative writing in these places:
 
-* [Fiction]([https://public.gwynnemonahan.com/site/fiction/)
+* [Fiction](https://public.gwynnemonahan.com/site/fiction/)
 * [writingClasses](https://public.gwynnemonahan.com/site/writingClasses/)
 
 The writing on [public.gwynnemonahan.com](https://public.gwynnemonahan.com) is not always polished; sometimes it's published for the sake of putting it out there. If I wait until it's perfect, it will remain an unseen, unknown file buried in a folder. This way, at least, I become accustomed to publishing stories with my name on them.
