@@ -2,7 +2,8 @@ title: Public Writing
 theme: minima
 markdown: kramdown
 
-header_pages: []
+header_pages:
+  - index.md
 
 sass:
   style: compressed
