@@ -14,3 +14,11 @@
     padding: 10px 0;
     border-top: 1px solid #ddd;
 }
+
+/*Byline-like style*/
+.story-info {
+  font-weight: bold;
+  text-align: center;     /* optional */
+  margin-bottom: 1em;
+  line-height: 1.3;
+}

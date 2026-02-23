@@ -1,8 +1,10 @@
-Flash Fiction
-Gwynne Monahan
-Word Count: 261
+<div class="story-info">
+  <p>Flash Fiction<br>
+  Gwynne Monahan<br>
+  Word Count: 261</p>
+</div>
 
-# NOTHING  BROKEN
+# Nothing Broken
 
 The sign said WALK. I looked left, then right before my feet moved from sidewalk to street asphalt.
 
