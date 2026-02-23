@@ -20,4 +20,4 @@ If you're looking for my blog, you'll [find that here](https://www.gwynnemonahan
 
 Thank you for visiting.
 
-© {{ site.time | date: "%Y" }} Gwynne Monahan. All rights reserved.
+<small>© 2025-present. Gwynne Monahan. All rights reserved.</small>
