@@ -1,12 +1,7 @@
+
 .site-nav {
     display: none !important;
 }
-/* Hide top-right links
-.header .page-link,
-.site-header .page-link,
-.header a {
-    display: none !important;
-} */
 
 /* Optional: sticky footer at bottom of viewport */
 .site-footer {
