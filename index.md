@@ -1,8 +1,3 @@
----
-title: Public Writing
-layout: default
-nav: true
----
 
 This site and its contents will mature over time. 
 
