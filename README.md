@@ -19,5 +19,3 @@ This is more the "good is better than perfect" repo than the "it must be perfect
 If you're looking for my blog, you'll [find that here](https://www.gwynnemonahan.com).
 
 Thank you for visiting.
-
-<small>© 2025-present. Gwynne Monahan. All rights reserved.</small>
