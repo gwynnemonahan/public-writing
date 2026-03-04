@@ -8,6 +8,7 @@ Select content for public consumption:
 * [writingClasses](/site/writingClasses/)
 * [fiction](/site/fiction/)
 * [creativeNonFiction](/site/creativeNonFiction)
+* [Tales of Riley](/site/RileyTales)
 
 Already public content:
 
