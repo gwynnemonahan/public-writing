@@ -6,5 +6,5 @@ nav: false
 
 Posts, stories, and thoughts about my dog.
 
-[The start of something](tiny-riley-start-of-something.md)
-[Puppy brain, and a moment of quiet joy](puppy-brain-moment-of-quiet-joy.md)
+* [The start of something](tiny-riley-start-of-something.md)
+* [Puppy brain, and a moment of quiet joy](puppy-brain-moment-of-quiet-joy.md)
