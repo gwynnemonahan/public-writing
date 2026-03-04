@@ -1,6 +1,6 @@
-# Tiny Riley, and the Start of Something
+<!--# Tiny Riley, and the Start of Something-->
 
-<img src="assets/images/riley-cone-on-puppy-bed.jpg" alt="Tiny Riley">
+<img src="assets/images/riley-cone-above.jpg" alt="Tiny Riley">
 
 One of my favorite images of Riley, a couple days after I brought him home in 2020. He's a rescue, from Rescue Rovers out of Salt Lake City, Utah. He was neutered the same day that I picked him up, and was also the last of his litter to leave. He whined the entire way home. I had him in a crate I got for him for the car, and then I remembered reading somewhere that puppies sometimes feel more comfortable on the floor behind the passenger or driver's side. They sometimes feel more safe in that small space closer to the human who is now reponsible for them. 
 
