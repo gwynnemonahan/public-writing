@@ -23,12 +23,13 @@
   line-height: 1.3;
 }
 
-/* ----- Responsive Story Images ----- */
+/* ----- Responsive Story Images with max width ----- */
 .story-content img {
-  max-width: 100%;          /* image won’t exceed container width */
-  height: auto;             /* preserves aspect ratio */
-  display: block;           /* removes small gaps under image */
-  margin: 0 auto 1em;       /* centers image with space below */
+  max-width: 100%;       /* still scales down on small screens */
+  width: 800px;          /* desired maximum width */
+  height: auto;          /* preserve aspect ratio */
+  display: block;
+  margin: 0 auto 1em;    /* center image with spacing below */
 }
 
 /* Optional: style captions under images */
@@ -39,6 +40,8 @@
   color: #555;              /* gray color for captions */
   margin-bottom: 1.5em;     /* spacing below caption */
 }
+
+
 
 /* Example HTML structure to match this CSS:
 <div class="story-content">
