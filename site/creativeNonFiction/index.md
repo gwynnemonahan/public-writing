@@ -12,4 +12,6 @@ Memoir excerpts, essays, flash fiction, and other creative non-fiction writing.
 
 * [Nothing Broken](nothing-broken.md)
 
-<!-- ## Memoir excerpts -->
+## Memoir excerpts
+
+* [An excerpt from "Little Man"](litte-man-excerpt.md)
