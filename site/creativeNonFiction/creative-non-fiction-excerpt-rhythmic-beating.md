@@ -5,7 +5,7 @@
 
 # Rhymthic beating
 
-My father’s youth was spent being schooled in the fine arts of Irish Catholic altar boys and Irish gang leadership. His two best friends were rising stars in their respective families. He joined them in boyhood shenanigans, stuffing cherry bombs up the change slots of pay phones outside bars before running down the alley to avoid getting caught, or engaging in a contest to see who could break the most windows of new cars as trains passed before getting cuffed upside the head and occasionally beaten by yard security guards. In college, one of his fraternity brothers was “made.” There were riches available to him, and he understood the rules from his summers working the water main crew, but he didn’t want that kind of life. He graduated, went on to medical school and immersed himself in the study of infectious diseases, and the heart. 
+My father went on to medical school and immersed himself in the study of infectious diseases, and the heart. 
 
 I think of this as sunlight streams in through the lobby of Impact Hub, warming the ceramic tiles. I touch my keycard to the pad, walk in and nod to Ryan, the morning shift host recently promoted to host manager. He also runs an app for pet owners that lets them digitally track and share registrations, vaccinations and all those things you don’t think about until you need to present proof. 
 
@@ -49,21 +49,21 @@ It is 6pm in Utah; closing time at the Hub. I pull the host binder from its slot
 
 The key labeled “3rd Floor East” goes into the lock, and turns. I check the door, and am pleased it remains closed. I have finally figured out which direction to turn the key for security.
 
-I can only tell myself something will come.
-I can only tell myself, with each rejection, that it isn't the right fit.
+I can only tell myself something will come.  
+I can only tell myself, with each rejection, that it isn't the right fit.  
 I can only tell myself, with long stretches of silence, that there are a myriad of things out of my control.
 
 Routine takes hold as I go down to the second floor, place the door stopper inside and lock the door before heading down to the ground floor and locking the stairwell door behind me. I lock the side entrance to the co-working space, and make one last sweep of the ground floor for stray coffee mugs, glasses, and other dishes. I go up the winding staircase, do one last sweep of the second floor, ending in the kitchen where I put the stray coffee mugs into the dishwasher and turn it on. 
 
-I can only convince myself that I am OK. 
-I can only convince myself this is progress.
-I can only convince myself to be patient.
-I can only remind myself of the leads that remain.
-I can only remind myself to try again tomorrow.
-I can only remind myself to take it one day at a time.
-I can only tell myself to be patient.
-I can only convince myself to be patient.
-I can only remind myself to be patient.
+I can only convince myself that I am OK.  
+I can only convince myself this is progress.  
+I can only convince myself to be patient.  
+I can only remind myself of the leads that remain.  
+I can only remind myself to try again tomorrow.  
+I can only remind myself to take it one day at a time.  
+I can only tell myself to be patient.  
+I can only convince myself to be patient.  
+I can only remind myself to be patient.  
 
 Keys back in the binder, I don my jacket and knit cap, sling my backpack over my shoulders and head out to the street. The sky is gray, clouds heavy with snow but unwilling to release. 
 
