@@ -1,5 +1,5 @@
 <div class="story-info">
-  <p>Memoir excerpt</p><br>
+  <p>Memoir excerpt<br>
   Gwynne Monahan</p>
 </div>
 
