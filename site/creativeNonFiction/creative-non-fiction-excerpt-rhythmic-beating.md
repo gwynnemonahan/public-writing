@@ -35,7 +35,7 @@ My mind wanders over the past few months, the past few years, the last 30 years.
 
 Something will come. 
 
-I make my 3pm rounds of the Hub, filling the printer paper trays, straightening the conference room chairs and checking the workspaces upstairs and down for stray coffee mugs. My brain turns itself to the challenge of starting a business instead of suicide. The challenge of defining services to offer. The challenge of how best to position myself in a particular market.
+I make my 3pm rounds of the Hub, filling the printer paper trays, straightening the conference room chairs and checking the workspaces upstairs and down for stray coffee mugs. My brain turns itself to the challenge of starting a business. The challenge of defining services to offer. The challenge of how best to position myself in a particular market.
 
 On a weekly call with my mother, she suggests I go to church. I nod, remember she can’t see it and say “good idea” or “that’s a good thought” or something. She has long since stopped pressing the issue. I think of a night I’m home for a visit, and how my father claims he won’t be lectured by pedophiles on the greatness of God. My mother turns red and steels herself against the couch. She is preparing to chastise him but bites her tongue. I imagine the phrase “pick your battles” running through her head, a phrase she often repeats now whenever we speak of my childhood, and how I stood at the top of the stairs in fourth grade, proclaiming they can send me to my room but they can’t make me study. 
 
