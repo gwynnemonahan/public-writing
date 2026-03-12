@@ -15,3 +15,4 @@ Memoir excerpts, essays, flash fiction, and other creative non-fiction writing.
 ## Memoir excerpts
 
 * [An excerpt from "Little Man"](little-man-excerpt.md)
+* [Rhythmic beating](creative-non-fiction-excerpt-rhythmic-beating.md)

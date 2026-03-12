@@ -10,6 +10,7 @@ Updates + new content for the week of March 8, 2026:
 
 * Add CHANGELOG.md to repo
 * Update README with link to /sites/RileyTales/
+* Add "Rhythmic beating" to /sites/creativeNonFiction
 
 
 ## Week of March 1, 2026
