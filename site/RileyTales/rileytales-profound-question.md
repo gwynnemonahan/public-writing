@@ -24,4 +24,3 @@ I no longer doubt I'm the best owner for him.
 I know I am the best owner for him. 
 
 Sometimes I'm not sure who rescued whom, and often settle on the belief that we rescued each other. 
-Not a day goes by now where I doubt I am the best owner for him. I know I am the best owner for him.  and I think about that often, and always reach the same conclusion: I'm the best owner for my dog. It's helped with even the big meltdowns.
