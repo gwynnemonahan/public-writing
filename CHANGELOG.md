@@ -8,21 +8,22 @@ New content + updates to existing content.
 
 New content for the week of March 22, 2026:
 
-* Add "Dodgeball" to /sites/creativeNonFiction
-* Update index.md /sites/creativeNonFiction
+* Add changelog to /site/index.md for better visibility of new content + updates
+* Add "Dodgeball" to /site/creativeNonFiction
+* Update index.md /site/creativeNonFiction
 
 ## Week of March 15, 2026
 
 * Add "Profound question" to /sites/RileyTales
-* Update index.md /sites/RileyTales
+* Update index.md /site/RileyTales
 
 ## Week of March 8, 2026
 
 Updates + new content for the week of March 8, 2026:
 
 * Add CHANGELOG.md to repo
-* Update README with link to /sites/RileyTales/
-* Add "Rhythmic beating" to /sites/creativeNonFiction
+* Update README with link to /site/RileyTales/
+* Add "Rhythmic beating" to /site/creativeNonFiction
 
 
 ## Week of March 1, 2026
