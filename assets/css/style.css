@@ -44,10 +44,10 @@
 /*sidebar styling */
 .sidebar {
   position: fixed;
-  top: 0;
+  top: 60px; /* pushes it below the header */
   left: 0;
   width: 220px;
-  height: 100vh;
+  height: calc(100vh - 60px);
   background: #fafafa;
   border-right: 1px solid #ddd;
   padding: 1.5rem;
