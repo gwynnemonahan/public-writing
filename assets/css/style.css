@@ -41,21 +41,6 @@
   margin-bottom: 1.5em;     /* spacing below caption */
 }
 
-/* Mobile */
-@media (max-width: 800px) {
-  .sidebar {
-    position: static;
-    width: 100%;
-    height: auto;
-    border-right: none;
-    border-bottom: 1px solid #ddd;
-  }
-
-  .content-with-sidebar {
-    margin-left: 0;
-  }
-}
-
 /*toc styling */
 .toc {
   position: fixed;
