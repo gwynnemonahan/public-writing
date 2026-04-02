@@ -1,0 +1,20 @@
+<div id="toc" class="toc"></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const toc = document.getElementById("toc");
+  const headers = document.querySelectorAll("h2, h3");
+
+  if (headers.length === 0) return;
+
+  let list = '<ul>';
+  headers.forEach(h => {
+    const id = h.innerText.toLowerCase().replace(/[^\w]+/g, '-');
+    h.id = id;
+    list += `<li class="level-${h.tagName.toLowerCase()}"><a href="#${id}">${h.innerText}</a></li>`;
+  });
+  list += '</ul>';
+
+  toc.innerHTML = `<h3>Contents</h3>${list}`;
+});
+</script>
