@@ -29,7 +29,7 @@
 }
 
 /* Pipes between links */
-.site-nav a:not(:last-child)::after {
+.site-header .site-nav a:not(:last-child)::after {
   content: " |";
   margin-left: 0.5rem;
   color: #888;
