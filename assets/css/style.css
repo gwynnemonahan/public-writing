@@ -30,13 +30,13 @@
 
 /* Even spacing + clean pipes */
 .site-nav a {
-  margin: 0 0.6rem;   /* ← adjust THIS for overall spacing */
+  margin: 0 0.7rem;   /* ← adjust THIS for overall spacing */
 }
 
 .site-nav a:not(:last-child)::after {
   content: "|";
   display: inline-block;
-  margin-left: 0.6rem; /* ← adjust THIS for pipe spacing */
+  margin-left: 0.7rem; /* ← adjust THIS for pipe spacing */
   color: #888;
 }
 
