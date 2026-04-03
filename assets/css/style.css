@@ -28,20 +28,18 @@
   text-decoration: underline;
 }
 
-/* Pipes between links */
-.site-nav a:not(:last-child)::after {
-  content: " |";
-  margin-left: 0.5rem;
-  color: #888;
+/* Even spacing + clean pipes */
+.site-nav a {
+  margin: 0 0.6rem;   /* ← adjust THIS for overall spacing */
 }
 
 .site-nav a:not(:last-child)::after {
   content: "|";
-  display: inline-block;     /* ← THIS is the missing piece */
-  margin-left: 0.5rem;
-  margin-right: 0.5rem;
+  display: inline-block;
+  margin-left: 0.6rem; /* ← adjust THIS for pipe spacing */
   color: #888;
 }
+
 
 
 /* --------------------------------------------------
