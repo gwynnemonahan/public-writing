@@ -35,6 +35,14 @@
   color: #888;
 }
 
+.site-nav a {
+  display: inline-block;   /* this is the missing piece */
+  text-decoration: none;
+  color: #444;
+  font-size: 0.95em;
+  margin: 0 0.5rem;
+}
+
 /* --------------------------------------------------
    STORY CONTENT
 -------------------------------------------------- */
