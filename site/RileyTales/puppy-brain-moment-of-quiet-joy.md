@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <!--# Tiny Riley-->
 <div class="story content">
 <img src="/assets/images/tiny-riley-tongue-napping.jpg" alt="Tiny Riley">

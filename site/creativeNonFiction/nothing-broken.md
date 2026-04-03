@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <div class="story-info">
   <p>Flash Fiction<br>
   Gwynne Monahan<br>

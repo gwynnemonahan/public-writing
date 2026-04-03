@@ -1,6 +1,5 @@
 ---
 layout: default
-nav: false
 ---
 
 Generative Writing 10/30/2025

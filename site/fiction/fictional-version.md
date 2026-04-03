@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 "This is my brother, Stanley," Jeanne said. "This is Bally."
 
 Bally gave a hand motion to Rocco as she looked at Stanely. It had been ten years, maybe more. 
@@ -46,7 +50,7 @@ Stanley laughed. "Steak it is then. I'll swing by the corner store." He looked a
 
 Kits Beach. Bally swallowed. "Great. And thank you, again. I'll do the dishes."
 
-"Pshaw. Nope. You and Rocco get the night off," Jeanne said. She looked down at Rocco. "Nothing short of amazing the work you two do." <!-- Rocco is a search and resuce dog>
+"Pshaw. Nope. You and Rocco get the night off," Jeanne said. She looked down at Rocco. "Nothing short of amazing the work you two do." <!-- Rocco is a search and resuce dog -->
 
 "Thank you," Bally said. 
 
@@ -165,5 +169,6 @@ Bally nodded and started to open the book she had been reading. She looked out t
 "I was headed to Chicago, but," she motioned out the window. "Mother Nature had other plans, so I'll hang out for the night, see if I can catch the first flight out tomorrow."
 
 "Don't be silly," Jeanne said.
+-->
 
 

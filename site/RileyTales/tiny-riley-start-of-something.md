@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <!--# Tiny Riley, and the Start of Something-->
 <div class="story content">
 <img src="/assets/images/riley-cone-above.jpg" alt="Tiny Riley">

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <!-- Profound question on what Ry's life would be like if he weren't mine -->
 <div class="story content">
 <img src="/assets/images/riley-profound-question.jpg" alt="Tiny Riley">

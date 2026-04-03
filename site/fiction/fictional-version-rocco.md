@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 It was hard to remember life without Rocco, but not impossible. The Prosecution still lingered, even if it was quiet, relegated to the background. There wasn't the space for the Prosecution with Rocco. 
 
 Bally didn't have trouble remembering what life was like with the Prosecution, but her desire to recall that time was minimal. She found herself wondering, now, how she lived with the Prosecution for nearly 20 years. That constant voice chastizing her, critizing her, convincing her death was the best option. 

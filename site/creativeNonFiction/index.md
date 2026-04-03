@@ -1,7 +1,6 @@
 ---
 title: Creative Non-Fiction
 layout: default
-nav: false
 ---
 
 Memoir excerpts, essays, flash fiction, and other creative non-fiction writing.
