@@ -3,7 +3,8 @@ layout: default
 ---
 
 <div class="story-info">
-  <p>Memoir excerpt</p>
+  <p>Memoir excerpt
+  Gwynne Monahan</p>
 </div>
 
 ## Orchestra of bedtime

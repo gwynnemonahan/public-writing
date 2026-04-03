@@ -7,7 +7,11 @@ layout: default
 <img src="/assets/images/tiny-riley-tongue-napping.jpg" alt="Tiny Riley">
 </div>
 
-## Puppy brain, and a moment of quiet joy
+# Puppy brain, and a moment of quiet joy
+
+<div class="story-info">
+  <p>Gwynne Monahan</p>
+</div>
 
 Puppy brain is a thing.
 

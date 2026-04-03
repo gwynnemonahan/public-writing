@@ -9,6 +9,10 @@ layout: default
 
 # A profound question
 
+<div class="story-info">
+  <p>Gwynne Monahan</p>
+</div>
+
 Walking Ry this evening, I found my thoughts drifting over our life together, and how grateful I am he came into my life. Sometimes it's hard to remember what my life was like without him in it. But I can still remember what my life was like before him. I remember the change in brain chemistry that first night. I remember the immediate change in thought pattern. I don't think I was fully aware at the time, or was able to process in the moment. 
 
 My thoughts drifted back to a training session with [Wasatch K9 Fitness](http://www.wasatchk9fitness.com). We were practicing loose leash walking at a park, and I was struggling and Ry was struggling, but we fought through it and things improved. I remember remarking on how some thought Ry was too much for me, that I should return him. But I couldn't. He's my boy. I could acknowledge he was a lot of dog, but I could not, would not return him. 
