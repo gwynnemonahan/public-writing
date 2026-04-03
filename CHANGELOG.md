@@ -4,6 +4,18 @@ New content + updates to existing content.
 
 ---
 
+## Week of March 29, 2026
+
+* Add top nav with piping
+* <story-info> updates
+  * RileyTales/puppy-brain-moment-of-quiet-joy.md
+  * RileyTales/rileytales-profound-question.md
+  * RileyTales/tiny-riley-start-of-something.md
+  * creativeNonFiction/little-man-excerpt.md
+* Blog post: [Pondering how to leverage AI tools for objective manuscript review](https://gwynnemonahan.com/2026/03/pondering-how-to-leverage-ai-tools-for-objective-manuscript-review/)
+* Blog post: [How AI gave me a new perspective on my memoir](https://gwynnemonahan.com/2026/03/how-ai-gave-me-a-new-perspective-on-my-memoir/)
+* Blog post: [The creative breakthrough I found using AI](https://gwynnemonahan.com/2026/04/the-creative-breakthrough-i-found-using-ai/)
+
 ## Week of March 22, 2026
 
 New content for the week of March 22, 2026:
