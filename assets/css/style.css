@@ -1,50 +1,19 @@
-/*Hide top right links*/
-.header .page-link,
-.site-header .page-link,
-.header a {
-    display: none !important;
-}
-/* Optional: sticky footer at bottom of viewport */
-.site-footer {
-    position: fixed; /* remove if you don't want sticky */
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    background: #fff;
-    padding: 10px 0;
-    border-top: 1px solid #ddd;
+/* --------------------------------------------------
+   HEADER CLEANUP
+-------------------------------------------------- */
+
+/* Hide Minima’s built‑in top-right nav links only */
+.site-header .page-link {
+  display: none !important;
 }
 
-/*Byline-like style*/
-.story-info {
-  font-weight: bold;
-  text-align: center;     /* optional */
-  margin-bottom: 1em;
-  line-height: 1.3;
-}
+/* --------------------------------------------------
+   TOP NAVIGATION
+-------------------------------------------------- */
 
-/* ----- Responsive Story Images with max width ----- */
-.story-content img {
-  max-width: 100%;       /* still scales down on small screens */
-  width: 800px;          /* desired maximum width */
-  height: auto;          /* preserve aspect ratio */
-  display: block;
-  margin: 0 auto 1em;    /* center image with spacing below */
-}
-
-/* Optional: style captions under images */
-.story-content .caption {
-  text-align: center;       /* centers caption text */
-  font-style: italic;       /* optional: italic for captions */
-  font-size: 0.9em;         /* slightly smaller than main text */
-  color: #555;              /* gray color for captions */
-  margin-bottom: 1.5em;     /* spacing below caption */
-}
-
-/* nav styling */
 .top-nav {
   text-align: center;
-  margin-top: 1.75rem;   /* more space below "Public Writing" */
+  margin-top: 1.75rem;   /* space below "Public Writing" */
   margin-bottom: 1.5rem;
 }
 
@@ -59,54 +28,44 @@
   text-decoration: underline;
 }
 
-/* Add pipes between links */
+/* Pipes between links */
 .top-nav a:not(:last-child)::after {
   content: " |";
   margin-left: 0.5rem;
   color: #888;
 }
 
-/*toc styling */
-.toc {
-  position: fixed;
-  right: 20px;
-  top: 100px;
-  width: 220px;
-  padding: 1rem;
-  background: #fafafa;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  font-size: 0.9rem;
-  max-height: 70vh;
-  overflow-y: auto;
+/* --------------------------------------------------
+   STORY CONTENT
+-------------------------------------------------- */
+
+.story-info {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 1em;
+  line-height: 1.3;
 }
 
-.toc h3 {
-  margin-top: 0;
+.story-content img {
+  max-width: 100%;
+  width: 800px;
+  height: auto;
+  display: block;
+  margin: 0 auto 1em;
 }
 
-.toc ul {
-  list-style: none;
-  padding-left: 0;
+.story-content .caption {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.9em;
+  color: #555;
+  margin-bottom: 1.5em;
 }
 
-.toc li {
-  margin-bottom: 0.4rem;
-}
+/* --------------------------------------------------
+   FOOTER NAV
+-------------------------------------------------- */
 
-.toc li.level-h3 {
-  margin-left: 1rem;
-  font-size: 0.85rem;
-}
-
-/* Hide TOC on mobile */
-@media (max-width: 1000px) {
-  .toc {
-    display: none;
-  }
-}
-
-/*footer */
 .footer-nav {
   text-align: center;
   margin: 2rem 0 1rem;
@@ -123,9 +82,16 @@
   text-decoration: underline;
 }
 
-/* Example HTML structure to match this CSS:
-<div class="story-content">
-  <img src="assets/images/instagram/post1.jpg" alt="Beach sunset">
-  <div class="caption">Sunset at the beach 🌅</div>
-</div>
-*/
+/* --------------------------------------------------
+   OPTIONAL: Sticky footer (remove if not wanted)
+-------------------------------------------------- */
+
+.site-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: #fff;
+  padding: 10px 0;
+  border-top: 1px solid #ddd;
+}
