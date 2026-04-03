@@ -1,1 +1,9 @@
 .DS_Store
+Gemfile
+
+# Jekyll build output
+_site/
+
+# Ruby environment
+.ruby-version
+Gemfile.lock
