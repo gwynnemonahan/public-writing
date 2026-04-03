@@ -1,3 +1,7 @@
+---
+layout: default
+nav: false
+---
 
 This site and its contents will mature over time. 
 
