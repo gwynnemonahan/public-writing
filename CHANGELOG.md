@@ -7,7 +7,9 @@ New content + updates to existing content.
 ## Week of April 5, 2026
 
 * Blog post: [Root cause analysis on myself I can see now](https://gwynnemonahan.com/2026/04/root-cause-analysis-on-myself-i-can-see-now/)
-* RileTales/rileytales-tanner-park-memories.md
+* RileTales/rileytales-tanner-park-memories.md 
+* `story-info` style to align left
+* Remove `<p>` tag to match align left instruction
 
 
 ## Week of March 29, 2026

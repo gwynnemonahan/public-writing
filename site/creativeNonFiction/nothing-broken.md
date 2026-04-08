@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div class="story-info">
-  <p>Flash Fiction<br>
+  Flash Fiction<br>
   Gwynne Monahan<br>
-  Word Count: 261</p>
+  Word Count: 261
 </div>
 
 # Nothing Broken
