@@ -10,7 +10,7 @@ layout: default
 # Tanner Park memories
 
 <div class="story-info">
-  <p>Gwynne Monahan</p>
+Gwynne Monahan
 </div>
 
 I love this picture. 

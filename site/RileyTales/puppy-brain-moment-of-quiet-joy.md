@@ -10,7 +10,7 @@ layout: default
 # Puppy brain, and a moment of quiet joy
 
 <div class="story-info">
-  <p>Gwynne Monahan</p>
+  Gwynne Monahan
 </div>
 
 Puppy brain is a thing.

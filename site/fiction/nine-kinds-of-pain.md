@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="story-info">
-  <p>Fiction</p>
+  Fiction<
 </div>
 
 ## Nine Kinds of Pain
