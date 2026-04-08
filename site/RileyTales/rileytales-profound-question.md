@@ -10,7 +10,7 @@ layout: default
 # A profound question
 
 <div class="story-info">
-  <p>Gwynne Monahan</p>
+  Gwynne Monahan
 </div>
 
 Walking Ry this evening, I found my thoughts drifting over our life together, and how grateful I am he came into my life. Sometimes it's hard to remember what my life was like without him in it. But I can still remember what my life was like before him. I remember the change in brain chemistry that first night. I remember the immediate change in thought pattern. I don't think I was fully aware at the time, or was able to process in the moment. 
