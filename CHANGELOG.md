@@ -4,6 +4,11 @@ New content + updates to existing content.
 
 ---
 
+## Week of April 12, 2026
+
+* Blog post: [When failure stops meaning what it used to](https://gwynnemonahan.com/2026/04/when-failure-stops-meaning-what-it-used-to/)
+* Private repo work: "My Independence Day" revisions based on workshop feedback
+
 ## Week of April 5, 2026
 
 * Blog post: [Root cause analysis on myself I can see now](https://gwynnemonahan.com/2026/04/root-cause-analysis-on-myself-i-can-see-now/)
