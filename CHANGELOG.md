@@ -4,6 +4,16 @@ New content + updates to existing content.
 
 ---
 
+## Week of May 3, 2026
+
+* Add `Riley` to `write-project`
+
+## Week of April 26, 2026
+
+* Blog post: [Claude diverged on its review of my manuscript](https://gwynnemonahan.com/2026/04/claude-diverged-on-its-review-of-my-manuscript/)
+* Work on `write-project`
+* AI experiments with Claude and Cursor
+
 ## Week of April 12, 2026
 
 * Blog post: [When failure stops meaning what it used to](https://gwynnemonahan.com/2026/04/when-failure-stops-meaning-what-it-used-to/)
