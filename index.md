@@ -13,6 +13,7 @@ The following sections contain select content for public consumption:
 * [fiction](/site/fiction/)
 * [creativeNonFiction](/site/creativeNonFiction)
 * [RileyTales](/site/RileyTales)
+* [CriticalEssays](/site/criticalEssays)
 
 Already public content:
 
