@@ -4,6 +4,14 @@ New content + updates to existing content.
 
 ---
 
+## Week of May 31, 2026
+
+* Add "CriticalEssays" section
+* Add 3 critical essays:
+  * Big Magic
+  * Rants from the Hill
+  * Educated
+
 ## Week of May 3, 2026
 
 * Add `Riley` to `write-project`
